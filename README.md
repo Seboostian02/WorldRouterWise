@@ -2,10 +2,13 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-npm run dev to open the app
+npm run dev
+Runs the app in the development mode.
+Open the adress from your console to view it in your browser.
 
-npm run server to open te Fake API
-the adress of the api will be: http://localhost:8000/cities
+npm run server
+Runs the Fake API .
+Open http://localhost:8000/cities to view it in your browser.
 
 Currently, two official plugins are available:
 
